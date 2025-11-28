@@ -1,4 +1,4 @@
-Notes on **Conjugation**,assumed grasp of basic organic chemistry (bonding, Lewis structures, and hybridization).
+Notes on **Conjugation**, assumed grasp of basic organic chemistry (bonding, Lewis structures, and hybridization).
 
 ---
 
